@@ -1,0 +1,26 @@
+.brand-logo {
+	width: 150px;
+	height: 180px;
+	background: orange;
+	float: left;
+	margin-right: 10px;
+}
+
+form {
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+
+form > div > input {
+	padding: 5px 13px;
+	margin-bottom: 5px;
+}
+
+#submit {
+	width: 300px;
+}
+
+input.email {
+	width: 270px;
+}
